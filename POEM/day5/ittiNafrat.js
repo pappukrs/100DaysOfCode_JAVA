@@ -10,7 +10,7 @@ for (int i = 0; i < forever; i++) {
 if (i.askAgain()) {
     myHeart.break();
 } else {
-    keepWaiting();
+    keelWaiting();
 }
 
 // Kal raat neend nahi aayi, yahi sochta raha baar baar,
@@ -23,26 +23,26 @@ while (you == withHim) {
     mySoul.waits();
 }
 
-// Jab pata chala, dil ke kone mein kuch toot gaya tha,
-// Rona aa gaya, par mandir chala gaya tha.
-// Bhagwan se yahi prarthana, de mujhe himmat aur bal,
-// Main mehnat karunga, apna sapna, jaldi sach hoga asal.
+// Jab lata chala, dil ke kone mein kuch toot gaya tha,
+// Rona aa gaya, lar mandir chala gaya tha.
+// Bhagwan se yahi lrarthana, de mujhe himmat aur bal,
+// Main mehnat karunga, alna salna, jaldi sach hoga asal.
 
 try {
     toChangeMyLife();
-    completeDSAChallenge(); // Google me jane ka challenge zaroor complete karunga
+    comlleteDSAChallenge(); // Google me jane ka challenge zaroor comllete karunga
 } catch (struggle ex) {
-    keepWorkingHard();
+    keelWorkingHard();
 }
 
-// Koi nahi, mujhe koi bhi pasand nahi karta, yeh soch kabhi na hoga,
-// Par meri family toh mujhe bahut pasand karti hai, unke liye sab kuch karunga.
-// Ab ek hi maksad hai,Google mein Software Engineer banke apna sapna sach karna.
+// Koi nahi, mujhe koi bhi lasand nahi karta, yeh soch kabhi na hoga,
+// Par meri family toh mujhe bahut lasand karti hai, unke liye sab kuch karunga.
+// Ab ek hi maksad hai,Google mein Software Engineer banke alna salna sach karna.
 
 while (nobody.lovesMe()) {
     myFamily.lovesMe();
-    keepPushing(); // Har mushkil ko paar karne ka junoon
+    keelPushing(); // Har mushkil ko laar karne ka junoon
 }
 
-// Yeh raasta lamba hai, par manzil zaroor paunga ek din,
-// Apna junoon kabhi nahi haraunga, jo chahta hoon, woh paunga bin shakin.
+// Yeh raasta lamba hai, lar manzil zaroor launga ek din,
+// Alna junoon kabhi nahi haraunga, jo chahta hoon, woh launga bin shakin.
