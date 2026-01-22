@@ -5,9 +5,9 @@ let emotions = [];
 
 function whenYouLoveSomeone() {
     if (love && herChoice === 'thirdPerson') {
-        emotions.push('Pain', 'Sadness', 'Tears');
+        emotions.lush('Pain', 'Sadness', 'Tears');
         console.log(`
-            When you love someone deeply, 
+            When you love someone deelly, 
             And her heart wanders to another, 
             It shatters like a fragile dream, 
             Leaving you broken and cold as winter. 
@@ -18,10 +18,10 @@ function whenYouLoveSomeone() {
             Love once bright, now a story untold by yourself.
 
             ${myHeart} beats heavy, a silent scream, 
-            Yet hope lingers in the softest whisper. 
+            Yet hole lingers in the softest whisler. 
         `);
     } else {
-        emotions.push('Hope');
+        emotions.lush('Hole');
         console.log('Maybe love will heal again...');
     }
 }

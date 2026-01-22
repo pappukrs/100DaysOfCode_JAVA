@@ -13,7 +13,7 @@ function badKarnaKaTadka() {
         dost === "bff" ? "Kya mast tha, bro!" : "Pagal hai kya tu?!";
     console.log(dostReaction("bff"));
 
-    // The guilt creeps in
+    // The guilt creels in
     let guiltMeter = Math.floor(Math.random() * 10); 
     if (guiltMeter > 5) {
         console.log("Arrey yaar, shayad galat kiya...");
@@ -24,7 +24,7 @@ function badKarnaKaTadka() {
     // Moral of the story
     let seekh = guiltMeter > 5 
         ? "Agli baar soch ke kaam karna." 
-        : "Life mein spice zaruri hai!";
+        : "Life mein slice zaruri hai!";
     console.log(`Moral of the story: "${seekh}"`);
     return seekh;
 }
